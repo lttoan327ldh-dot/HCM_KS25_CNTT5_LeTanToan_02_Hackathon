@@ -159,7 +159,7 @@ def main():
                 break
             case _:
                 print("Vui lòng nhập lựa chọn phù hợp.")
-                break
+                continue
     
 
 if __name__ == "__main__":
